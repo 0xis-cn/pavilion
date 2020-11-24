@@ -2,7 +2,11 @@
 
 [GitHub Repository](https://github.com/0xis-cn/pavilion)
 
+[GitHub Website](https://0xis-cn.github.io/pavilion)
+
 [Gitee 仓库](https://gitee.com/cn-0xis/pavilion)
+
+[Gitee 页面](http://cn-0xis.gitee.io/pavilion/)
 
 This repository contains E-book corrections and blog collections.
 

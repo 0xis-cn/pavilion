@@ -1,6 +1,6 @@
-### 序
+### Introduction 序
 
-S. I. 早川（Hakayawa）作，物灵译
+SㆍIㆍ早川（Hakayawa）作，物灵译
 
 英语之词汇量及同义词数居世界语言之最。这源于英语在数世纪以来不断自外语引入新词。即于诺曼征服之前，盎格鲁—萨克逊语已含有拉丁（如 street、mile 及城镇名之「彻斯特」后缀——原注，下同）、希腊（如 priest、bishop）、凯尔特（如 crag、bin）、斯堪的纳维亚（如 law、fellow、egg、thrall）借词。诺曼征服后，英语词汇实因法语词汇加入而倍增，其中反映高水准生活与更复杂社交者尤甚：如关于饮食（如 sugar、vinegar、boil、fry、roast）、衣物（如 garment、robe、mantle、gown）、法律（如 plaintiff、perjury、legacy）、宗教（如 convent、hermitage、chaplain、cardinal）、头衔及组织（prince、duke、count「伯爵」、vassal、mayor、constable）之词。
 
