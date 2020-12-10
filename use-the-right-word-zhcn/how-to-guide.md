@@ -1,0 +1,7 @@
+# How To Use This Book 如何使用本书
+
+(Page: viii)
+
+欲找到某词，先翻至[索引](./index.md)。若该词以小型大写字母（原电子书被扫描为全大写。考虑小型大写系层叠样式表定义，难以体现语义差异，全大写又不美观，译本改为在词后加「(H)」，但原文保持大写。另外，原页码改用链接，但原文保持页码——译注）排印，如「courage」这般，代表该词是某次辨析之主题词。你可能将继续翻至本书正文中该词位置。例如可作主题词之 courage 相较于 backbone、fortitude、grit、guts、nerve、pluck、resolution 诸词。更多情况下，你所需之词并非主题词，而是出自某次辨析中另一词之下。此时索引中将以小写排印，交叉引用至该词所在之主题词。例如当你查找 indigent，在索引中可见到 indigent penniless，代表 indigent 见于以 penniless 为主题之辨析下。
+
+Using the Index. To find a word you want, turn first to the Index, beginning on p. 701. If the word is printed in small capital letters, as in the case of courage, for example, that word appears as the head word of an essay. The page number on which that essay begins appears to the right of the word. You may then turn directly to the indicated page in the main section of the book. You will find courage, for example, as the head word of an essay comparing backbone, fortitude, grit, guts, nerve, pluck, and resolution beginning on page 133. More often, however, the word you are interested in will not be a head word, but will appear in an essay listed under another word. In that event the Index will cross-refer you to the head word, printed in small capital letters, under which the word you are seeking will appear. Suppose you want to find indigent. In the Index you will find: indigent penniless 433. This means that indigent is discussed in an essay under the head word penniless beginning on page 433. 

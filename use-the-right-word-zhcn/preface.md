@@ -1,5 +1,7 @@
 # Introduction 序
 
+(Page: v)
+
 SㆍIㆍ早川（Hakayawa）作，物灵译
 
 英语之词汇量及同义词数居世界语言之最。这源于英语在数世纪以来不断自外语引入新词。即于诺曼征服之前，盎格鲁—萨克逊语已含有拉丁（如 street、mile 及城镇名之「彻斯特」后缀——原注，下同）、希腊（如 priest、bishop）、凯尔特（如 crag、bin）、斯堪的纳维亚（如 law、fellow、egg、thrall）借词。诺曼征服后，英语词汇实因法语词汇加入而倍增，其中反映高水准生活与更复杂社交者尤甚：如关于饮食（如 sugar、vinegar、boil、fry、roast）、衣物（如 garment、robe、mantle、gown）、法律（如 plaintiff、perjury、legacy）、宗教（如 convent、hermitage、chaplain、cardinal）、头衔及组织（prince、duke、count「伯爵」、vassal、mayor、constable）之词。
@@ -14,9 +16,9 @@ While much of the new French vocabulary described new ideas and activities, much
 
 With the enormous expansion of classical learning in the Renaissance, there was a great influx of words of Latin and Greek origin into the language, dictated by the demands of an enriched intellectual and cultural life. Also, the larger world discovered through travel (from the Crusades onward) and exploration (especially in the Elizabethan period) was a great stimulus to culture and language. There also arose in the sixteenth century a fashion of ornamenting one’s discourse with what were then called “aureate” or “inkhorn” terms drawn from Greek and Latin. Shakespeare’s “multitudinous seas incarnadine” is a famous example, and what happened to these particular words is typical of the fate of this new vocabulary: multitudinous stayed in the language as one of several synonyms for many, while incarnadine is not heard any more except in this context. In brief, many words of classical origin introduced into the language during the Renaissance became permanent additions, but most were soon forgotten or were relegated to special technical contexts, like hebdemodary (weekly) and gressorial (having to do with walking).
 
-现代，当操英语者行于世界，在欧洲、北美、印度、澳洲、非洲或贸易或杀伐时，其经历亦在扩增英语词汇。无论荷兰语（如 tub、spool、deck）、西班牙语（如 sherry、armada、grenade）、美洲印第安土语（如 squash、toboggan、hickory）、东印第安土语（如 cashmere、punch、shampoo）、南非语（如 veld、trek）、意大利语（如 soprano、casino、macaroni）、墨西哥语（如 chocolate、tomato）、澳大利亚土语（如 kangaroo、billabong）、日语（如 amok、ketchup）或其他语言，均有词汇借入。
+现代，当操英语者行于世界，在欧洲、北美、印度、澳洲、非洲或贸易或杀伐时，其经历亦在扩增英语词汇。无论荷兰语（如 tub、spool、deck）、西班牙语（如 sherry、armada、grenade）、美洲印第安土语（如 squash、toboggan、hickory）、东印第安土语（如 cashmere、punch、shampoo）、南非语（如 veld、trek）、意大利语（如 soprano、casino、macaroni）、墨西哥语（如 chocolate、tomato）、澳大利亚土语（如 kangaroo、billabong）、日语（如 kimono、ricksha）、马累语（如 amok、ketchup）或其他语言，均有词汇借入。
 
-The adventures of English-speaking people as they traded and fought and traveled around the world in modern times—in Europe, North America, India, Australia, Africa—also expanded the vocabulary. Words were borrowed from Dutch {tub, spool, deck), Spanish {sherry, armada, grenade), American Indian {squash, toboggan, hickory), East Indian {cashmere, punch, shampoo), Afrikaans {veld, trek), Italian {soprano, casino, macaroni), Mexican {chocolate, tomato), Australian {kangaroo, billabong), Japanese {kimono, ricksha), Malay {amok, ketchup), and many others.
+(Page: vi) The adventures of English-speaking people as they traded and fought and traveled around the world in modern times—in Europe, North America, India, Australia, Africa—also expanded the vocabulary. Words were borrowed from Dutch (tub, spool, deck), Spanish (sherry, armada, grenade), American Indian (squash, toboggan, hickory), East Indian (cashmere, punch, shampoo), Afrikaans (veld, trek), Italian (soprano, casino, macaroni), Mexican (chocolate, tomato), Australian (kangaroo, billabong), Japanese (kimono, ricksha), Malay (amok, ketchup), and many others.
 
 此外，美国以其与世隔绝，生活方式与国体迥异，自殖民地时期起即快速扩充英语词汇。随着美国崛起，以致在政治、科学、工业、经贸乃至流行艺术方面影响全球，美式辞章在各地扬名。Ice-cream、jeep、rock-and-roll 家喻户晓，containment、DEW-line、nuclear deterrence 举世皆知。另外，诸多美国用语与英伦用语相伴相生，形成另一组同义词为人所用：help（美）同 servant（英）、sidewalk 同 pavement、billboard 同 hoarding、movies 同 flicks、druggist 同 chemist、installment plan 同 hire-purchase system、water-heater 同 geyser、checkers 同 draughts、soft drinks 同 mineral waters 等等，不一而足。
 
@@ -32,7 +34,7 @@ It can be argued that there really are no exact synonyms—no exact equivalences
 
 部分同义词表达同一动作，但强调与客体之不同关系。对同僚称 accompany，对上级则言 attend、follow，对需指导者用 accompany，对应保护者用 escort，对得监视者用 chaperone，战时商船务以 convoy。又如 feminine、effeminate、womanly、womanish 皆以形容女性特质，惟第二词用以贬称男性。
 
-Some groups of words describe the same actions, but imply different relationships among the parties concerned. We accompany our equals; we attend or follow those to whom we are subordinate; we conduct those who need guidance, escort those who need protection, and chaperone those who need supervision; merchant ships are convoyed in time of war. Feminine, effeminate, womanly, and womanish are much alike in referring to female characteristics, but the second applies only to males, and then in a derogatory sense.
+Some groups of words describe the same actions, but imply different relationships among the parties concerned. We accompany our equals; we attend or follow those to whom we are subordinate; we conduct those who need guidance, escort those who need protection, and chaperone those who need supervision; merchant ships are convoyed in time of war. (Page: vii) Feminine, effeminate, womanly, and womanish are much alike in referring to female characteristics, but the second applies only to males, and then in a derogatory sense.
 
 语风之别有时揭示所述场合之正式程度，如 luncheon 之别于 lunch；有时不表示场合本身而是相关交谈之正式程度，如 He went to bed 之别于 He hit the sack。
 
